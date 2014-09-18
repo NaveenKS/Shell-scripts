@@ -1,8 +1,8 @@
 Shell_scripts
 =============
 
-find.sh:
-This shell script would print names of files which contain a specific word.
+search.sh:
+This shell script spans directories recursively and would print names of files which contain the given word.
 
 Usage:
-sh find.sh <word> <directory>
+sh search.sh <path of the directory> <word>
