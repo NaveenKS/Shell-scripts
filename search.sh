@@ -16,7 +16,7 @@ for file in `ls $search_dir`
 		if [ $command_status -eq 0 ]
 		then
 			echo $1/$file
-	fi
+		fi
 	fi
 done
 }
