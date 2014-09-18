@@ -7,4 +7,4 @@ This shell script spans directories recursively and would print names of files w
 
 Usage:
 
-sh search.sh /<path_of_the_directory/> /<word/>
+sh search.sh 'path_of_the_directory' 'word'
