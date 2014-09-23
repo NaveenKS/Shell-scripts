@@ -1,10 +1,8 @@
 Shell_scripts
 =============
 
-search.sh:
+This project includes shell scripts :
 
-This shell script spans directories recursively and would print names of files which contain the given word.
+* Script to search for a file which contains a specific word spanning across the director.
 
-Usage:
-
-sh search.sh 'path_of_the_directory' 'word'
+* Script to check for wifi networks in which password has not been set and connect to it aumatically. 
