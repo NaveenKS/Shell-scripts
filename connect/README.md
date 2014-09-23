@@ -5,6 +5,7 @@ This script will span the wifi networks and connect to the one which doesn't req
 Usage:
 
 To connect type : sh connect.sh
+
 To disconnect	: sh disconnect.sh
 
 
