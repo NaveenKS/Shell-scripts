@@ -2,7 +2,7 @@ Description:
 
 *  This script could be used to hide any file for ex : binary,executable etc into any file for example image file.
 
-*  Send it across the network with stegngraphed file and the original file
+*  Send it across the network with stegnographed file and the original file
 
 *  Now using the same script  one can extract back the hidden file (executable,binary etc).
 
