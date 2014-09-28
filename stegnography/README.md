@@ -1,8 +1,10 @@
 Description:
 
-*  This script can be used to insert a binary or executable into a image file.
+*  This script could be used to hide any file for ex : binary,executable etc into any file for example image file.
 
-*  It can also be used to extract back the executable or binary.
+*  Send it across the network with stegngraphed file and the original file
+
+*  Now using the same script  one can extract back the hidden file (executable,binary etc).
 
 Usage:
 
