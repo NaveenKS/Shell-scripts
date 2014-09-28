@@ -6,6 +6,8 @@ Description:
 
 *  Now using the same script  one can extract back the hidden file (executable,binary etc).
 
+*  base64 is used for converting binary to ascii  
+
 Usage:
 
 sh stegno.sh
