@@ -7,4 +7,4 @@ This project includes shell scripts :
 
 * Script to check for wifi networks in which password has not been set and connect to it automatically. 
 
-* Script to insert a executable into a image file and extract it back to executable
+* Script to hide any file(binary,executable etc) into any file(image file etc) and extract it back.
