@@ -15,8 +15,11 @@ sh stegno.sh
 Files included:
 
 1.1.jpg : image file
+
 2.pwd   : binary file(present working directory)
+
 3.dup   : stegnographed file.
+
 4.bin   : extracted binary file.
 
 
