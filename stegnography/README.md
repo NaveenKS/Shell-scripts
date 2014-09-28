@@ -12,6 +12,15 @@ Usage:
 
 sh stegno.sh
 
+Files included:
+
+1.1.jpg : image file
+2.pwd   : binary file(present working directory)
+3.dup   : stegnographed file.
+4.bin   : extracted binary file.
+
+
+
 Usecase:
 
-Some sites won't allow to send executables or binary files.This comes in handy to insert,send and extract back the binary file.
+Some mail servers won't allow to send executables.This comes in handy to insert,send and extract back the binary file.
