@@ -6,11 +6,11 @@
 
 To connect: 
 
-'sh connect.sh'
+	sh connect.sh
 
 To disconnect:
 
-'sh disconnect.sh'
+	sh disconnect.sh
 
 
 
