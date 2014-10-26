@@ -1,12 +1,16 @@
-DETAIL
+#Description:
 
-This script will span the wifi networks and connect to the one which doesn't require password automatically.
+**This script will span the wifi networks and connect to the one which doesn't require password automatically.**
 
-Usage:
+###Usage:
 
-To connect type : sh connect.sh
+To connect: 
 
-To disconnect	: sh disconnect.sh
+'sh connect.sh'
+
+To disconnect:
+
+'sh disconnect.sh'
 
 
 
