@@ -1,6 +1,6 @@
 #Shell scripts
 
-###This project includes shell scripts serves various purposes :
+###This project includes shell scripts that serves for various purposes :
 
 
 - Script to search for a file which contains a specific word spanning across the directories.
